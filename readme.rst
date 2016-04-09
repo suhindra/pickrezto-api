@@ -12,6 +12,6 @@ Please pay attention don't directly push your dirty code into the main branch, F
 
 ###Create Pull Request
 
-Once you finished with new feature put your code into your own repo, then you could create a Pull Request to merger your new feature
+Once you finished with new feature put your code into your own repo, then you could create a Pull Request to merge your new feature
 into main repo.
 
