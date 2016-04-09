@@ -5,7 +5,9 @@ Please pay attention don't directly push your dirty code into the main branch, F
 ###Set remote upstream & origin
 
 `path-to-your-project-folder$ git init`
+
 `path-to-your-project-folder$ git remote add origin 'your own repo url'
+
 `path-to-your-project-folder$ git remote add upstream 'the main repo url from the group/organization'
 
 ###Create Pull Request
